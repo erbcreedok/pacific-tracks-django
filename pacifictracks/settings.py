@@ -12,7 +12,7 @@ SECRET_KEY = 's+3t85isf^-k-!dq3vuu497%64r2$t!!t-slp^3k@i7fz&v-vn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'yerbols.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'yerbols.pythonanywhere.com']
 
 
 # Application definition
